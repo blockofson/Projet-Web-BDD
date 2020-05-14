@@ -1,12 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7fa50552-d06c-40b8-abe7-a3465bae6211" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1btOUGA9SX5ry2Qixv1zmr09M2a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Webmaster" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="8080">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fa50552-d06c-40b8-abe7-a3465bae6211" name="Default Changelist" comment="" />
+      <created>1589447936677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589447936677</updated>
+      <workItem from="1589447938059" duration="1254000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="781" y="386" key="#CLI_Interpreters" timestamp="1589448880250">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="781" y="386" key="#CLI_Interpreters/0.0.2560.1440@0.0.2560.1440" timestamp="1589448880250" />
+    <state x="906" y="286" width="585" height="890" key="#PHP" timestamp="1589448882469">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="906" y="286" width="585" height="890" key="#PHP/0.0.2560.1440@0.0.2560.1440" timestamp="1589448882469" />
+    <state x="641" y="386" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589448885083">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="641" y="386" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1589448885083" />
+    <state x="688" y="373" key="SettingsEditor" timestamp="1589448917852">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="688" y="373" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1589448917852" />
   </component>
 </project>
